@@ -4,6 +4,7 @@
 // @version      0.5.1
 // @description  try to take over the world!
 // @author       Erik Pitti
+// @dowload      https://github.com/erikpt/make-wapo-readable/raw/master/Make%20WaPo%20Readable%20Again.user.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @match        https://www.washingtonpost.com/*
 // @grant        GM_addStyle
