@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Make WaPo Readable Again
 // @namespace    washingtonpost.com
-// @version      0.5
+// @version      0.5.1
 // @description  try to take over the world!
 // @author       Erik Pitti
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
